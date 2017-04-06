@@ -1,0 +1,14 @@
+{
+  "name": "500-server",
+  "version": "1.0.0",
+  "description": "Node server which always responds with a 500 status.",
+  "bin": "index.js",
+  "dependencies": {},
+  "keywords": [
+    "server",
+    "status",
+    "500"
+  ],
+  "author": "Daniel Lehr",
+  "license": "MIT"
+}
