@@ -7,5 +7,8 @@ if (!port) {
 }
 
 require('http')
-  .createServer((req, res) => res.status(500).end())
+  .createServer((req, res) => {
+    res.statusCode = 500
+    res.end()
+  })
   .listen(port, () => console.log(`The 500-server is running at localhost:${port}`))
