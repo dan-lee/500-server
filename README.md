@@ -1,5 +1,7 @@
 # 500-server
 
+[![npm version](https://badge.fury.io/js/500-server.svg)](https://badge.fury.io/js/500-server)
+
 This is a server based on `Node.js`.  
 It will answer every request with a 500 status.   
 End of story.
