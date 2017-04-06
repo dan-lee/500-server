@@ -10,5 +10,9 @@
     "500"
   ],
   "author": "Daniel Lehr",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dan-lee/500-server.git"
+  }
 }
