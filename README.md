@@ -1,7 +1,10 @@
 # 500-server
 
-This is a server based on Node which will responds every request with a 500 status.
-There are no dependencies.
+This is a server based on `Node.js`.  
+It will answer every request with a 500 status.   
+End of story.
+
+No dependencies required.
 
 ## Installation
 
