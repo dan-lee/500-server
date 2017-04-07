@@ -3,12 +3,17 @@
   "version": "1.0.1",
   "description": "Node server which always responds with a 500 status.",
   "bin": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "mocha": "3.2.0"
+  },
   "keywords": [
     "server",
     "status",
     "500"
   ],
+  "scripts": {
+    "test": "mocha"
+  },
   "author": "Daniel Lehr",
   "license": "MIT",
   "repository": {
